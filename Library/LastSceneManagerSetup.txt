@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Mastermind/Game.unity
+=======
+- path: Assets/Mastermind/OpeningMenu.unity
+>>>>>>> 15dd26ec66a4570720758ef2bdac2065457c29a4
   isLoaded: 1
   isActive: 1

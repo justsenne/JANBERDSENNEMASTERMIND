@@ -6,6 +6,7 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class Buttons : MonoBehaviour
 {
+    int point;
     public AudioClip sound;
 
     private Button button { get { return GetComponent<Button>(); } }
@@ -26,4 +27,19 @@ public class Buttons : MonoBehaviour
     {
         source.PlayOneShot(sound);
     }
+
+    void AddPoint()
+    {
+        point++;
+        switch (point)
+        {
+            case 0:
+                // kleur
+                break;
+            case 1:
+                // kleur
+                break;
+        }
+    }
+
 }
