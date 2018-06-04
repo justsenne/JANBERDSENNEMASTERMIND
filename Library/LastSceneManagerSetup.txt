@@ -1,7 +1,7 @@
 sceneSetups:
-- path: Assets/Mastermind/Game.unity
+- path: Assets/Mastermind/OpeningMenu.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/Mastermind/OpeningMenu.unity
+- path: Assets/Mastermind/Game.unity
   isLoaded: 1
   isActive: 0
