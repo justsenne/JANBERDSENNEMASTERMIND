@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 791
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -365,9 +365,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c4320000
-    m_LastClickedID: 12996
-    m_ExpandedIDs: 52e1ffff66e9ffff62f7fffff0fbffff000000000e31000086310000343300008033000088330000
+    m_SelectedIDs: fa0e0000
+    m_LastClickedID: 3834
+    m_ExpandedIDs: f0fbffff000000006a0f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,6 @@ MonoBehaviour:
     m_SearchString: 
   m_ExpandedScenes:
   - Game
-  - OpeningMenu
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -423,9 +422,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 306.4764, y: 177.45499, z: -4.5774593}
+    m_Target: {x: 283.50717, y: 179.09001, z: -3.7622082}
     speed: 2
-    m_Value: {x: 306.4764, y: 177.45499, z: -4.5774593}
+    m_Value: {x: 283.50717, y: 179.09001, z: -3.7622082}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -457,9 +456,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 561.63983
+    m_Target: 480.1453
     speed: 2
-    m_Value: 561.63983
+    m_Value: 480.1453
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -650,19 +649,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Mastermind
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Mastermind
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\School\Projecten\Project Mastermind\Mastermind\MasterMind
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 69}
-    m_SelectedIDs: 1a0c0000
-    m_LastClickedID: 3098
+    m_SelectedIDs: ce090000
+    m_LastClickedID: 2510
     m_ExpandedIDs: 00000000ce090000240c00004c0c00006a0c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
