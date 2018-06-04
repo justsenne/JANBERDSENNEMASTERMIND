@@ -66,8 +66,10 @@
     <Compile Include="Assets\2D_ColorsBall\Script\JustRotate.cs" />
     <Compile Include="Assets\2D_ColorsBall\Script\PlayerManager.cs" />
     <Compile Include="Assets\Buttons.cs" />
+    <Compile Include="Assets\changeVolume.cs" />
     <Compile Include="Assets\ClickSound.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\mouseDrag.cs" />
     <Compile Include="Assets\NextScene.cs" />
     <Compile Include="Assets\SettingsMenu.cs" />
     <Compile Include="Assets\Startup.cs" />
