@@ -5,24 +5,22 @@ using UnityEngine;
 
 
 public class Startup : MonoBehaviour {
-    
-    public static int[] GetCode()
-    {
-        var Code = new int[4];
-        for (int x = 0; x > 4; x++)
-        {
-            Code[x] = Random.Range(0, 4);
-        };
-        return Code;
-    }
+    int[] Code = new int[5];
 
-    
     void Start () {
         
-	}
-	
-	// Update is called once per frame
-	void Update () {
+        for (int x = 1; x < 5; x++)
+        {
+            Code[x] = Random.Range(1, 5);
+            print(Code[x]);
+        };
+        
+    
+
+    }
+
+    // Update is called once per frame
+    void Update () {
 		
 	}
 }
